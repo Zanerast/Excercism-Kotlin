@@ -16,3 +16,6 @@ https://exercism.org/tracks/kotlin/exercises/pig-latin
 
 Raindrops: Convert a number into a string that contains raindrop sounds corresponding to certain potential factors.
 https://exercism.org/tracks/kotlin/exercises/raindrops
+
+Scrabble Score: Given a word, compute the Scrabble score for that word.
+https://exercism.org/tracks/kotlin/exercises/scrabble-score
