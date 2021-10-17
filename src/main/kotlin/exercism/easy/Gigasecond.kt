@@ -1,3 +1,5 @@
+package exercism.easy
+
 import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.OffsetTime

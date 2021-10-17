@@ -1,3 +1,5 @@
+package exercism.medium
+
 // https://exercism.org/tracks/kotlin/exercises/pig-latin
 object PigLatin{
 

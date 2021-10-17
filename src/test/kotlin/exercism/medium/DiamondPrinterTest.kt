@@ -1,7 +1,9 @@
+package exercism.medium
+
+import exercism.medium.DiamondPrinter
 import org.hamcrest.CoreMatchers.`is`
 import org.junit.Assert.assertThat
 import org.junit.Before
-import org.junit.Ignore
 import org.junit.Test
 
 class DiamondPrinterTest {

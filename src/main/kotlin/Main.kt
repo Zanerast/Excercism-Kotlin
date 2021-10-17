@@ -1,6 +1,4 @@
-import java.time.LocalDate
-import java.time.LocalTime
-import java.util.*
+import exercism.medium.PigLatin
 
 
 fun main(args: Array<String>) {

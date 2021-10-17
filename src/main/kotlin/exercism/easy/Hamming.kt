@@ -1,3 +1,5 @@
+package exercism.easy
+
 // https://exercism.org/tracks/kotlin/exercises/hamming
 object Hamming{
     fun compute(dnaOne: String, dnaTwo: String): Int{

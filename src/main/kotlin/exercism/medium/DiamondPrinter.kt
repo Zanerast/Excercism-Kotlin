@@ -1,3 +1,5 @@
+package exercism.medium
+
 class DiamondPrinter {
 
     fun printToList(letter: Char): List<String> {

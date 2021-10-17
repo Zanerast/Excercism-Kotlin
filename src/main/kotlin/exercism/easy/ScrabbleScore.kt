@@ -1,3 +1,5 @@
+package exercism.easy
+
 // https://exercism.org/tracks/kotlin/exercises/scrabble-score
 object ScrabbleScore {
 
