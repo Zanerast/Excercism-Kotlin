@@ -13,6 +13,9 @@ https://exercism.org/tracks/kotlin/exercises/raindrops
 Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/kotlin/exercises/scrabble-score
 
+TwoFer: Given a name, return a string with the message: One for *name*, one for me.
+https://exercism.org/tracks/kotlin/exercises/two-fer
+
 # Medium
 Diamond Printer: The diamond kata takes as its input a letter, and outputs it in a diamond shape.
 https://exercism.org/tracks/kotlin/exercises/diamond
