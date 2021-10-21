@@ -1,11 +1,17 @@
 # Completed Kotlin Exercises from Exercism
 
 # Easy
+Difference Of Squares: Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+https://exercism.org/tracks/kotlin/exercises/difference-of-squares
+
 Gigasecond: Given a moment, determine the moment that would be after a gigasecond has passed.
 https://exercism.org/tracks/kotlin/exercises/gigasecond
 
 Hamming: Calculate the Hamming Distance between two DNA strands.
 https://exercism.org/tracks/kotlin/exercises/hamming
+
+Handshake Calculator: There are 10 types of people in the world: Those who understand binary, and those who don't. Given a decimal number, convert it to the appropriate sequence of events for a secret handshake.
+https://exercism.org/tracks/kotlin/exercises/secret-handshake
 
 Raindrops: Convert a number into a string that contains raindrop sounds corresponding to certain potential factors.
 https://exercism.org/tracks/kotlin/exercises/raindrops
