@@ -16,6 +16,9 @@ https://exercism.org/tracks/kotlin/exercises/secret-handshake
 Raindrops: Convert a number into a string that contains raindrop sounds corresponding to certain potential factors.
 https://exercism.org/tracks/kotlin/exercises/raindrops
 
+Resistor Color Duo: Create a program so that you don't have to remember the values of resistor bands
+https://exercism.org/tracks/kotlin/exercises/resistor-color-duo
+
 Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/kotlin/exercises/scrabble-score
 

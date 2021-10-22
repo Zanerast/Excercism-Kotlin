@@ -8,7 +8,7 @@ object WordCount {
         val regexRemove = Regex("\n|\\s'|'\\s|'$")
         val regexSplit = Regex("[^a-zA-Z0-9']+")
 
-        val wordList = phrase.toLowerCase()
+        val wordList = phrase.lowercase(Locale.getDefault())
             .replace(regexRemove, " ")
             .split(regexSplit)
             .filter { it.isNotEmpty() }
