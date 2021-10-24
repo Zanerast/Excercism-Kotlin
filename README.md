@@ -1,6 +1,9 @@
 # Completed Kotlin Exercises from Exercism
 
 # Easy
+Armstrong Numbers: Determine whether a number is an Armstrong number. An Armstrong number is a number that is the sum of its own digits each raised to the power of the number of digits.
+https://exercism.org/tracks/kotlin/exercises/armstrong-numbers
+
 Difference Of Squares: Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
 https://exercism.org/tracks/kotlin/exercises/difference-of-squares
 
@@ -28,6 +31,9 @@ https://exercism.org/tracks/kotlin/exercises/two-fer
 # Medium
 Diamond Printer: The diamond kata takes as its input a letter, and outputs it in a diamond shape.
 https://exercism.org/tracks/kotlin/exercises/diamond
+
+Matrix: Given a string representing a matrix of numbers, return the rows and columns of that matrix.
+https://exercism.org/tracks/kotlin/exercises/matrix
 
 Pig Latin: Implement a program that translates from English to Pig Latin.
 https://exercism.org/tracks/kotlin/exercises/pig-latin
