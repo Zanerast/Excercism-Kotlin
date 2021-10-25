@@ -38,6 +38,9 @@ https://exercism.org/tracks/kotlin/exercises/matrix
 Pig Latin: Implement a program that translates from English to Pig Latin.
 https://exercism.org/tracks/kotlin/exercises/pig-latin
 
+Triangle: Determine if a triangle is equilateral, isosceles, or scalene.
+https://exercism.org/tracks/kotlin/exercises/triangle
+
 Word Count: Given a phrase, count the occurrences of each word in that phrase
 https://exercism.org/tracks/kotlin/exercises/word-count
 
