@@ -29,6 +29,9 @@ TwoFer: Given a name, return a string with the message: One for *name*, one for 
 https://exercism.org/tracks/kotlin/exercises/two-fer
 
 # Medium
+Anagram: An anagram is a rearrangement of letters to form a new word. Given a word and a list of candidates, select the sublist of anagrams of the given word.
+https://exercism.org/tracks/kotlin/exercises/anagram
+
 Diamond Printer: The diamond kata takes as its input a letter, and outputs it in a diamond shape.
 https://exercism.org/tracks/kotlin/exercises/diamond
 
@@ -37,6 +40,9 @@ https://exercism.org/tracks/kotlin/exercises/matrix
 
 Pig Latin: Implement a program that translates from English to Pig Latin.
 https://exercism.org/tracks/kotlin/exercises/pig-latin
+
+Saddle Points: https://exercism.org/tracks/kotlin/exercises/saddle-points
+Detect saddle points in a matrix.
 
 Triangle: Determine if a triangle is equilateral, isosceles, or scalene.
 https://exercism.org/tracks/kotlin/exercises/triangle

@@ -4,7 +4,7 @@ package exercism.easy
 object ScrabbleScore {
 
     fun scoreWord(word: String): Int {
-        return word.sumOf {
+        return word.uppercase().sumOf {
             scoreLetter(it)
         }
     }
