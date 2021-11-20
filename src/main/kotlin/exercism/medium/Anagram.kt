@@ -1,5 +1,4 @@
 class Anagram(var anagram: String){
-
     fun match(list: List<String>): Set<String>{
         return list.filter {
             it.lowercase() != anagram.lowercase() && it.order() == anagram.order()
