@@ -1,9 +1,9 @@
 package exercism.medium
 
+
+import junit.framework.TestCase.*
 import org.junit.Ignore
 import org.junit.Test
-import kotlin.test.assertFalse
-import kotlin.test.assertTrue
 
 class TriangleTest {
 

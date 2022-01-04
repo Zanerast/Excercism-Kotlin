@@ -1,7 +1,6 @@
 package exercism.medium
 
 import org.junit.Test
-import org.junit.Ignore
 import kotlin.test.assertEquals
 
 class FlattenerTest {

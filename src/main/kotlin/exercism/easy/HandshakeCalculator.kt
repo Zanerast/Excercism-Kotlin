@@ -1,7 +1,6 @@
 package exercism.easy
 
 object HandshakeCalculator {
-
     fun calculateHandshake(number: Int): List<Signal> {
         return mutableListOf<Signal>().apply {
             Signal.values().forEach {
