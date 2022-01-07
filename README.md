@@ -25,6 +25,9 @@ https://exercism.org/tracks/kotlin/exercises/resistor-color-duo
 Scrabble Score: Given a word, compute the Scrabble score for that word.
 https://exercism.org/tracks/kotlin/exercises/scrabble-score
 
+Transpose: Given an input text output it transposed.
+https://exercism.org/tracks/kotlin/exercises/transpose
+
 TwoFer: Given a name, return a string with the message: One for *name*, one for me.
 https://exercism.org/tracks/kotlin/exercises/two-fer
 
@@ -32,8 +35,14 @@ https://exercism.org/tracks/kotlin/exercises/two-fer
 Anagram: An anagram is a rearrangement of letters to form a new word. Given a word and a list of candidates, select the sublist of anagrams of the given word.
 https://exercism.org/tracks/kotlin/exercises/anagram
 
+Bank Account: Simulate a bank account supporting opening/closing, withdrawals, and deposits of money. Watch out for concurrent transactions!
+https://exercism.org/tracks/kotlin/exercises/bank-account
+
 Diamond Printer: The diamond kata takes as its input a letter, and outputs it in a diamond shape.
 https://exercism.org/tracks/kotlin/exercises/diamond
+
+Flatten Array: Take a nested list and return a single flattened list with all values except nil/null.
+https://exercism.org/tracks/kotlin/exercises/flatten-array
 
 Matrix: Given a string representing a matrix of numbers, return the rows and columns of that matrix.
 https://exercism.org/tracks/kotlin/exercises/matrix
